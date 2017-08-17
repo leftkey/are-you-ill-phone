@@ -1,0 +1,28 @@
+.intro li {
+    width: 100%;
+    text-align: left;
+    padding: 5px 20px;
+    color: #111;
+}
+
+.li100 {
+    font-weight: bold;
+}
+
+.use li {
+    width: 100%;
+    text-align: left;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #33a;
+}
+
+.use p {
+    width: 100%;
+    text-align: left;
+    padding: 5px 16px;
+    color: #111;
+    font-size: 12px;
+    color: #334;
+}
